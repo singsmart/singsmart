@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, Saya Sing Smart
 
-<!--
-**singsmart/singsmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎤 Profil resmi Sing Smart - Vocal, Koor dan Konten Mazmur
 
-Here are some ideas to get you started:
+Saya bikin konten seputar:
+- 🎵 Vocal & Koor
+- ⛪ Lagu Mazmur & Lagu Gereja
+- 🎬 Guide Lagu & Tutorial Nyanyi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📺 Temukan Saya di
+- YouTube: Sing Smart
+- TikTok: @singsmart
+
+Terima kasih sudah mampir! 🙏
+
